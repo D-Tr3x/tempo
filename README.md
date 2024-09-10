@@ -4,3 +4,4 @@
 3. Print integer usin f-strings
 4. Print float using f-strings
 5. Print string (using operators and slicing)
+6. Using the addition operator with strings
